@@ -4,14 +4,14 @@
 This repo contains an example of React Redux offline. Read full tutorial at here: http://jslancer.com/blog/2017/05/23/no-internet-no-problem/
 
 # Usages
-Yarn
+**Yarn**
 ```
 git clone
 yarn install
 yarn start
 ```
 
-NPM
+**NPM**
 ```
 git clone
 npm install
@@ -19,7 +19,7 @@ npm start
 ```
 
 
-#Step to test:
+# Step to test:
 - Clone and run the example.
 - Disconnect your computer from internet.
 - Add some todos. Your todos will be stored in localStorage and is waiting to save to server.
@@ -27,5 +27,4 @@ npm start
 
 # Author
 David Tran
-
 http://jslancer.com
