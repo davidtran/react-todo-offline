@@ -6,14 +6,14 @@ This repo contains an example of React Redux offline. Read full tutorial at here
 # Usages
 **Yarn**
 ```
-git clone
+git clone https://github.com/davidtran/react-todo-offline
 yarn install
 yarn start
 ```
 
 **NPM**
 ```
-git clone
+git clone https://github.com/davidtran/react-todo-offline
 npm install
 npm start
 ```
